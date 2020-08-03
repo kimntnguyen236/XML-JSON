@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<!DOCTYPE Students SYSTEM 'Student.dtd'>
+<?xml-stylesheet type="text/css" href="Colors.css" ?>
+<Students>
+    <Student>
+        <code>ST001</code>
+        <name>Ton Ngo Khong</name>
+        <mathematic>7</mathematic>
+        <infomatics>8</infomatics>
+    </Student>
+    <Student>
+        <code>ST002</code>
+        <name>Tru Bat Gioi</name>
+        <mathematic>3</mathematic>
+        <infomatics>2</infomatics>
+    </Student>
+</Students>

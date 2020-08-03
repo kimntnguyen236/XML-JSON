@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Benhvien.xsl"?>
+
+<benhvien tenbv="Benh vien 198"
+          xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:noNamespaceSchemaLocation='BenhVien.xsd'>
+    <khoa makhoa="kh01" truongkhoa="Ton That Bach">
+        <tenkhoa>Than Kinh</tenkhoa>
+        <benhnhan maso="bn01">
+            <hoten>Tran Van Tuan</hoten>
+            <gioitinh>Nam</gioitinh>
+            <songaynamvien>9</songaynamvien>
+        </benhnhan>
+        <benhnhan maso="bn02">
+            <hoten>Hoang Thi Oanh</hoten>
+            <gioitinh>Nu</gioitinh>
+            <songaynamvien>8</songaynamvien>
+        </benhnhan>
+    </khoa>
+    <khoa makhoa="kh02" truongkhoa="Ton That Tung">
+        <tenkhoa>Mat</tenkhoa>
+        <benhnhan maso="bn06">
+            <hoten>Nguyen Van Tu</hoten>
+            <gioitinh>Nam</gioitinh>
+            <songaynamvien>9</songaynamvien>
+        </benhnhan>
+        <benhnhan maso="bn08">
+            <hoten>Nguyen Thi Lan</hoten>
+            <gioitinh>Nu</gioitinh>
+            <songaynamvien>1</songaynamvien>
+        </benhnhan>
+    </khoa>
+</benhvien>

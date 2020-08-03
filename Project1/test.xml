@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+var jsonObject={
+    "Firstname" : "Stephen",
+    "City": "New York"
+};
+document.write("<hr>");
+    document.write("<h2>City::" + jsonObject.City +"</h2>");

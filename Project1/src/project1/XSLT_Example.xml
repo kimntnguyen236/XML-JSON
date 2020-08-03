@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="XSLT_Example.xsl"?>
+<Company>
+    <Product>
+        <Product_ID>S002</Product_ID>
+        <Name>Steel</Name>
+        <Price>1000/tonne</Price>
+        <Boiling_Point Units="Kelvin">20.28</Boiling_Point>
+        <Melting_Point Units="Kelvin">13.81</Melting_Point>
+    </Product>
+    <Product>
+        <Product_ID>S004</Product_ID>
+        <Name>Iron</Name>
+        <Price>5000/tonne</Price>
+        <Boiling_Point Units="Kelvin">34.216</Boiling_Point>
+        <Melting_Point Units="Kelvin">23.81</Melting_Point>
+    </Product>
+</Company>

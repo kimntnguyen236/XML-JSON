@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<!DOCTYPE DOCUMENT SYSTEM "Document.dtd">
+<DOCUMENT>
+    <CUSTOMER TYPE="Good">
+        <NAME>
+            <LASTNAME>aaa</LASTNAME>
+            <FIRSTNAME>bbb</FIRSTNAME>
+        </NAME>
+        <DATE>1/1/03</DATE>
+        <ORDERS class="SanPham">
+            <ITEM>
+                <PRODUCT>
+                    <PRODUCTID>12</PRODUCTID>
+                </PRODUCT>
+                <NUMBER>25</NUMBER>
+                <PRICE>20</PRICE>
+            </ITEM>
+            <ITEM>
+                <PRODUCT>Tomatoes</PRODUCT>
+                <NUMBER>25</NUMBER>
+                <PRICE>3</PRICE>
+            </ITEM>
+        </ORDERS>
+    </CUSTOMER>
+</DOCUMENT>

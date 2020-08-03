@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="https://customer.com" uri="www.customer.com/index"/>
+    <system systemId="http://www.w3.org" uri="www.w3.org.xml"/>
+    <system systemId="http://w3.org/20" uri="www.w3.org/20/index"/>
+    <system systemId="http://w3.org/2001/XMLSchema" uri="www.w3.org/2001/xmlschema.xml"/>
+    <system systemId="http://w3.org/2001/XMLSchema-instance" uri="www.w3.org/2001/xmlschema-instance"/>
+    <system systemId="http://www.w3.org/" uri="www.w3.org/index.xml"/>
+    <system systemId="http://www.w3.org/1" uri="www.w3.org/1"/>
+    <system systemId="http://www.w3.org/1999/xhtml" uri="www.w3.org/1999/xhtml/index.xml"/>
+</catalog>

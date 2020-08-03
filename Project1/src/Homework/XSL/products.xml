@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="product.xsl"?>
+<products>
+    <cat cat-name="Electronics">
+        <product>
+            <name>TV Sony Wega 24</name>
+            <price>105</price>
+        </product>
+        <product>
+            <name>TV LG 32</name>
+            <price>265</price>
+        </product>
+        <product>
+            <name>DVD Toshiba</name>
+            <price>75</price>
+        </product>
+    </cat>
+    <cat cat-name="Computers">
+        <product>
+            <name>Laptop Sony Vaio</name>
+            <price>1050</price>
+        </product>
+        <product>
+            <name>Laptop Del Inspiron 6500</name>
+            <price>585</price>
+        </product>
+        <product>
+            <name>Desktop IBM K-500</name>
+            <price>312</price>
+        </product>
+    </cat>
+</products>

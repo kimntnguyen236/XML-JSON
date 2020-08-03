@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<ns1:tv-list
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xmlns:ns1='http://xml.netbeans.rg/examples/targetNs'
+    xsi:schemaLocation='http://xml.netbeans.rg/examples/targetNs tv.xsd'>
+    <ns1:tv>
+        <ns1:namne>LG 32 inches</ns1:namne>
+        <ns1:manufacturer>LG</ns1:manufacturer>
+        <ns1:price>350.5</ns1:price>
+        <ns1:guarantee>24</ns1:guarantee>
+    </ns1:tv>
+     <ns1:tv>
+        <ns1:namne>TCL 32 inches</ns1:namne>
+        <ns1:manufacturer>TCL</ns1:manufacturer>
+        <ns1:price>750.5</ns1:price>
+        <ns1:guarantee>22</ns1:guarantee>
+    </ns1:tv>
+    <ns1:tv>
+        <ns1:namne>HP 32 inches</ns1:namne>
+        <ns1:manufacturer>HP</ns1:manufacturer>
+        <ns1:price>390</ns1:price>
+        <ns1:guarantee>20</ns1:guarantee>
+    </ns1:tv>
+</ns1:tv-list>

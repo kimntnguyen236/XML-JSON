@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ShopOrder
+    xmlns:cus="https://customer.com"
+    xmlns:pro="https://product.com"
+>
+    <Order>
+        <Customer>
+            <Name>Nguyen Van A</Name>
+            <Address>SG</Address>
+        </Customer>
+        <Product>
+            <Name>Iphone</Name>
+            <Qua>20</Qua>
+            <Price>200.000 vnd</Price>
+        </Product>
+    </Order>
+</ShopOrder>

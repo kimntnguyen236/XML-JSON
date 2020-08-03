@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT delevered-products (delivered-product)*>
+
+<!ELEMENT delivered-product (invoice,customer,product)>
+<!ELEMENT invoice EMPTY>
+    <!ATTLIST invoice id CDATA #REQUIRED
+                      data CDATA #REQUIRED
+                      by ENTITY #REQUIRED>
+<!ELEMENT customer (name, address)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT address (#PCDATA)>
+<!ELEMENT product (product-name,quantity,price)>
+    <!ATTLIST product id CDATA #REQUIRED>
+    <!ELEMENT product-name (#PCDATA)>
+    <!ELEMENT quantity (#PCDATA)>
+    <!ELEMENT price (#PCDATA)>
+<!ENTITY moto 'by motor'>
+<!ENTITY truck 'by truck'>

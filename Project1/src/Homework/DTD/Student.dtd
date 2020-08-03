@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT Students (Student)*>
+<!ELEMENT Student (code,name,mathematic,infomatics)>
+    <!ELEMENT code (#PCDATA)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT mathematic (#PCDATA)>
+    <!ELEMENT infomatics (#PCDATA)>
+

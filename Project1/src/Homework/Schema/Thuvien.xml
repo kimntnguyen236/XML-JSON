@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<ThuVien xmlns:xsi="http://w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ThuVien.xsd">
+    <QLMuon>
+        <SinhVien>
+            <MaSV>SV01</MaSV>
+            <Hoten>Nguyen Van A</Hoten>
+            <Lop>CNPM1</Lop>
+            <NamSinh>1992</NamSinh>
+        </SinhVien>
+        <Muon>
+            <Sach>
+                <MaSach>SA01</MaSach>
+                <TenSach>Java</TenSach>
+                <NXB>GiaoDuc</NXB>
+                <NamXB>2010</NamXB>
+            </Sach>
+            <NgayMuon>2017-12-08</NgayMuon>
+            <NgayTra>2018-01-21</NgayTra>
+        </Muon>
+    </QLMuon>
+</ThuVien>

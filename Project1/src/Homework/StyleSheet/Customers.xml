@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/css" href="Customers.css" ?>
+<!-- Danh sach khach hang o moi district-->
+<customers>
+    <district>
+        <d-name>Quan 1</d-name>
+        <customer>
+            <name>Tung</name>
+            <total>12000</total>
+        </customer>
+        <customer>
+            <name>Hoa</name>
+            <total>7800</total>
+        </customer>
+        <customer>
+            <name>Linh</name>
+            <total>650</total>
+        </customer>
+    </district>
+    <district>
+        <d-name>Quan 2</d-name>
+        <customer>
+            <name>Tran Hoang Xuan</name>
+            <total>11500</total>
+        </customer>
+        <customer>
+            <name>Le Quy Phat</name>
+            <total>950</total>
+        </customer>
+        <customer>
+            <name>Mai Ngoc Hoa</name>
+            <total>1650</total>
+        </customer>
+    </district>
+</customers>

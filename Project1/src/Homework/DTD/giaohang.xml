@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<!DOCTYPE delivered-products SYSTEM 'giaohang.dtd'>
+<delivered-products>
+    <delivered-product>
+        <invoice id='IV123' date="2008/03/11" by="&truck;"/>
+        <customer>
+            <name>
+                Tuan Anh
+            </name>
+            <address>123 Le Thanh Ton Q1</address>
+        </customer>
+        <product id='P00001'>
+            <product-name>TV Sony Wega 46 inches</product-name>
+            <quantity>2</quantity>
+            <price>$450</price>
+        </product>
+    </delivered-product>
+    <delivered-product>
+        <invoice id='IV124' date="2008/11/11" by="&moto"/>
+        <customer>
+            <name>
+                Edmund Lee
+            </name>
+            <address>208 Nguyen Huu Canh BT</address>
+        </customer>
+        <product id='P00002'>
+            <product-name>TV Sony Wega 52 inches</product-name>
+            <quantity>4</quantity>
+            <price>$750</price>
+        </product>
+    </delivered-product>
+</delivered-products>
